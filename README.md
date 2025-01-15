@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate fullstack developer and an electronic engineer</h3>
 
-- 🔭 I’m currently working on **Project MODBOT**
+- 🔭 I’m currently working on **BotVenture Client**
 
 - 🏫 I’m currently attending the higher technical and vocational college of **Neufelden**
 
